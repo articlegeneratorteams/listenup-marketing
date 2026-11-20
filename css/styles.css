@@ -1337,7 +1337,7 @@ address {
   }
 }
 
-/* Video demo gallery. Keep this branch unpublished until all 3 MP4 assets are present. */
+/* AI demonstration video gallery. */
 .demo-video-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
